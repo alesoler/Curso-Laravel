@@ -14,6 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    //ejemplo
+    //ejemplo de modicacion simple
     return view('welcomes');
 });
